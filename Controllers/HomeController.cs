@@ -17,6 +17,7 @@ namespace DemoApplication.Controllers
         {
             ViewBag.Message = "Your application description page.";
             ViewBag.Message = "it is working";
+            ViewBag.Message = "it is working";
             return View();
         }
 
